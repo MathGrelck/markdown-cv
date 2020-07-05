@@ -1,88 +1,100 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV-Mathias-Grelck-Johnsen-2020
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="headshot">
+    <img src="media/headshot.png" alt="Mathias Grelck Johnsen" />
 </div>
 
 
-## Currently
 
-Standing on the shoulders of giants
+# Mathias Grelck Johnsen
+MSc. Electrical Engineering in Automation and Robot Technology
 
-### Specialized in
+<div id="webaddress">
+<a href="https://github.com/MathGrelck">GitHub</a>
+| <a href="https://www.linkedin.com/in/mathias-grelck-johnsen-8513056a/">LinkedIn</a>
+</div>
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+## Summary
+Passionate about embedded systems in product development. Focused on robotics, discrete time motor control, IoT.
+Experienced in simulation and firmware implementation of control systems, using various tools:
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
++ SciLab/XCOS and MatLab/Simulink for simulation.
++ Firmware development for Atmel XMEGA chipsets in C.
++ Realtime plotting applications for evaluating controller performance written in Python using pySerial, TkInter and QT.
+
+I have a broad skill set within rapid prototyping including:
+
++ MVPs for mobile platforms in Unity and for desktop platforms in Electron.
++ Bluetooth Low Energy development in both embedded systems and iOS+Android.
++ CAD modeling (SolidWorks and Fusion).
+
+I’ve also been involved with optimizing electronics for passing FCC and CE certifications.
+
+
+
+## Experience
+
+`Aug 2018 - Jul 2020`
+__Shape Robotics, Robotics Engineer__, full time
+
+I was hired fulltime as Robotics Engineer after receiving my MSc degree in electrical engineering.
+I’m currently working on the Fable Spin module, where my main contributions are:
+
++ The design and implementation of the positional and speed control algorithms in firmware on the Atmel XMEGA embedded platform.
++ Specification, test and sourcing of suitable DC gear motors for the Fable Spin drive train.
++ Power optimizations for ultra-low power consumption in standby mode.
++ Specialized testing firmware needed during CE and FCC certification.
++ Some mechanical design from prototype to DFM in SolidWorks.
+
+
+`Aug 2017 - Jul 2018`
+__Shape Robotics, Student Developer__, part time
+
+I created:
++ Software tools for internal use in production.
++ The Fable Face mobile app for iOS and Android using Unity.
++ Firmware for the Fable Hub to enable Bluetooth communication with the Fable Face app.
+
+
+`Aug 2015 - Jul 2017`
+__DTU Center for Playware, Student Developer__, part time
+
+I was the first hire at Shape Robotics back in the summer of 2015, when “Fable” was a research project at DTU, lead by David Johan Christensen and Moises Pacheco. During my time as a student developer I helped:
++ Transform the PC software of the research project into a standalone application for release on both Windows and macOS.
++ Produce more than 40 prototypes of the Fable Joint and Fable Hub.
++ Test the Fable system in schools around Zealand.
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2012 - Jul 2018`
+__Technical University of Denmark__, Copenhagen
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Master of Science, Electrical Engineering in Automation and Robot Technology.
 
-- Sizar
+`Sep 2008 - Jul 2011`
+__Egaa Gymnasium__, Aarhus
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+High school education in Mathematics, Physics and Music.
 
 
 
-## Awards
+## Volunteer work
 
-`2012`
-President, *Royal Society*, London, UK
+`Sep 2012 - Jul 2015`
+__IAESTE Denmark, PR Coordinator__, part time
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+My responsibilities include designing, printing and content managing and creation of the annual IAESTE Denmark PR material.
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Activities
+Most vacations spent enjoying food and road cycling in France with my girlfriend and family. La Pavoni coffee brewing and latte art practicing, various fermentation projects, enjoying my vinyl collection. Yes, my friends have suggested that I take "Hipster" as my middle name.
 
 <!-- ### Footer
 
