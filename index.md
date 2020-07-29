@@ -10,7 +10,7 @@ title: CV-Mathias-Grelck-Johnsen-2020
 
 
 # Mathias Grelck Johnsen
-MSc. Electrical Engineering in Automation and Robot Technology
+Robotics Engineer, experienced in robots for STEAM education
 
 <div id="webaddress">
 <a href="https://github.com/MathGrelck">GitHub</a>
@@ -20,20 +20,20 @@ MSc. Electrical Engineering in Automation and Robot Technology
 
 
 ## Summary
-Passionate about embedded systems in product development. Focused on robotics, discrete time motor control, IoT.
+Passionate about building robots for STEAM education. Focused on embedded systems in product development.
 Experienced in simulation and firmware implementation of control systems, using various tools:
 
 + SciLab/XCOS and MatLab/Simulink for simulation.
 + Firmware development for Atmel XMEGA chipsets in C.
 + Realtime plotting applications for evaluating controller performance written in Python using pySerial, TkInter and QT.
 
-I have a broad skill set within rapid prototyping including:
+Broad skill set within rapid prototyping including:
 
-+ MVPs for mobile platforms in Unity and for desktop platforms in Electron.
++ MVPs for mobile platforms in Unity and desktop platforms in Electron.
 + Bluetooth Low Energy development in both embedded systems and iOS+Android.
 + CAD modeling (SolidWorks and Fusion).
 
-I’ve also been involved with optimizing electronics for passing FCC and CE certifications.
+Also been involved with optimizing electronics for passing FCC and CE certifications.
 
 
 
