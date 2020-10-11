@@ -3,6 +3,11 @@ layout: cv
 title: CV-Mathias-Grelck-Johnsen-2020
 ---
 
+<!-- 
+Render using jekyll by running: 
+jekyll serve
+-->
+
 <div id="headshot">
     <img src="media/headshot.png" alt="Mathias Grelck Johnsen" />
 </div>
@@ -10,7 +15,7 @@ title: CV-Mathias-Grelck-Johnsen-2020
 
 
 # Mathias Grelck Johnsen
-MSc. Electrical Engineering in Automation and Robot Technology
+Robotics Engineer, embedded systems and product development
 
 <div id="webaddress">
 <a href="https://github.com/MathGrelck">GitHub</a>
@@ -20,21 +25,27 @@ MSc. Electrical Engineering in Automation and Robot Technology
 
 
 ## Summary
-Passionate about embedded systems in product development. Focused on robotics, discrete time motor control, IoT.
-Experienced in simulation and firmware implementation of control systems, using various tools:
+Passionate about product development with a strong desire to create intuitive user experiences. Focused on software development for embedded systems in C/C++.
 
-+ SciLab/XCOS and MatLab/Simulink for simulation.
-+ Firmware development for Atmel XMEGA chipsets in C.
+Experienced in simulation and implementation of control systems:
+
++ Firmware implementation of PID and path-planning control on Atmel XMEGA chipsets in C.
 + Realtime plotting applications for evaluating controller performance written in Python using pySerial, TkInter and QT.
++ SciLab/XCOS and MatLab/Simulink for simulation.
 
-I have a broad skill set within rapid prototyping including:
+Other embedded endeavors:
++ Customized Bluetooth Low Energy GATT profile for peripheral, supporting simultaneous communication with multiple clients.
++ Power management of embedded system of application processor and peripheral ICs.
++ Debugging of application code and communication protocols IIC and SPI.
 
-+ MVPs for mobile platforms in Unity and for desktop platforms in Electron.
-+ Bluetooth Low Energy development in both embedded systems and iOS+Android.
-+ CAD modeling (SolidWorks and Fusion).
+Broad skill set within rapid prototyping:
 
-I’ve also been involved with optimizing electronics for passing FCC and CE certifications.
++ App MVPs for mobile platforms in Unity and desktop platforms in Electron.
++ CAD modeling (SolidWorks and Fusion) for both 3D printing and injection molding.
 
+Also been involved with optimizing electronics for passing FCC and CE certifications.
+
+I desire to work on high-impact, larger scale projects with a team of like-minded embedded software engineers. I imagine this collaborative effort will give me a chance to learn from my peers and dive into topics of Continuous Integration and Test Driven Development.
 
 
 ## Experience
@@ -43,13 +54,15 @@ I’ve also been involved with optimizing electronics for passing FCC and CE cer
 __Shape Robotics, Robotics Engineer__, full time
 
 I was hired fulltime as Robotics Engineer after receiving my MSc degree in electrical engineering.
-I’m currently working on the Fable Spin module, where my main contributions are:
+Most recently I've worked on the Fable Spin module, where my main contributions are:
 
 + The design and implementation of the positional and speed control algorithms in firmware on the Atmel XMEGA embedded platform.
 + Specification, test and sourcing of suitable DC gear motors for the Fable Spin drive train.
 + Power optimizations for ultra-low power consumption in standby mode.
 + Specialized testing firmware needed during CE and FCC certification.
 + Some mechanical design from prototype to DFM in SolidWorks.
+
+I also extended the Bluetooth Low Energy capabilities of the Fable Hub firmware with support for multiple clients. Specifically, this enabled the Fable Hub to communicate simultaneously with two devices; a smartphone running the Fable Face app and a tablet running the Fable blockly app.
 
 
 `Aug 2017 - Jul 2018`
@@ -95,9 +108,4 @@ My responsibilities include designing, printing and content managing and creatio
 
 ## Activities
 Most vacations spent enjoying food and road cycling in France with my girlfriend and family. La Pavoni coffee brewing and latte art practicing, various fermentation projects, enjoying my vinyl collection. Yes, my friends have suggested that I take "Hipster" as my middle name.
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
 
