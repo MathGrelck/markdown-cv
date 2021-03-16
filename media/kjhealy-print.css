@@ -182,6 +182,22 @@ a:hover {
 	text-decoration: none;
 }
 
+.skills {
+	white-space: pre;
+	font: normal normal;
+	font-size: 80%;
+	font-family: Menlo,monospace,sans-serif;
+	color: #a00;
+	position: absolute;
+	left: -15em;
+	text-align: right;
+}
+
+.skills+span {
+	color: #aaa;
+	font-style: italic;
+}
+
 em {
 	font-style: normal;
 	color: #2d4e5e 

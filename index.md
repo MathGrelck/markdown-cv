@@ -4,7 +4,7 @@ title: CV-Mathias-Grelck-Johnsen-2020
 ---
 
 <!-- 
-Render using jekyll by running: 
+Render using jekyll by running:
 jekyll serve
 -->
 
@@ -20,8 +20,8 @@ Robotics Engineer, embedded systems and product development
 <div id="webaddress">
 <a href="https://github.com/MathGrelck">GitHub</a>
 | <a href="https://www.linkedin.com/in/mathias-grelck-johnsen-8513056a/">LinkedIn</a>
+| <a href="mailto:{{ 'mathgrelck@gmail.com' | encode_email }}" title="email">email</a>
 </div>
-
 
 
 ## Summary
@@ -46,6 +46,13 @@ Broad skill set within rapid prototyping:
 Also been involved with optimizing electronics for passing FCC and CE certifications.
 
 I desire to work on high-impact, larger scale projects with a team of like-minded embedded software engineers. I imagine this collaborative effort will give me a chance to learn from my peers and dive into topics of Continuous Integration and Test Driven Development.
+
+<h2></h2>
+<code class="skills"> Programming skills</code><span>C, Python, Matlab/SciLab</span>
+
+<code class="skills">              Tools</code><span>Git, LaTeX, Asana</span>
+
+<code class="skills">   Have worked with</code><span>Atmel microcontrollers, Bluetooth Low Energy, control systems</span>
 
 
 ## Experience
