@@ -20,7 +20,6 @@ Robotics Engineer, embedded systems and product development
 <div id="webaddress">
 <a href="https://github.com/MathGrelck">GitHub</a>
 | <a href="https://www.linkedin.com/in/mathias-grelck-johnsen-8513056a/">LinkedIn</a>
-| <a href="mailto:{{ 'mathgrelck@gmail.com' | encode_email }}" title="email">email</a>
 </div>
 
 
